@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/FantoX/Readme-Generator/blob/master/LICENSE.md" target="_blank">
+  <a href="https://github.com/FantoX/Readme-Generator/blob/main/LICENSE" target="_blank">
     <img alt="Badge showing project license type" src="https://img.shields.io/github/license/FantoX/Readme-Generator?color=f85149">
   </a>
 </p>
